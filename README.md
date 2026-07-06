@@ -26,7 +26,7 @@ To run this application from the source code, you will need the following instal
 ---
 
 ## Current Version
-Version: 1.1.0
+Version: 1.0.0
 
 ## Programmer
 Muhammad Hani Ilma Alfarabi
