@@ -74,7 +74,7 @@ class CVDApp(ctk.CTk):
 
         # --- AREA STATUS & PROGRESS BAR ---
         self.progress_bar = ctk.CTkProgressBar(self, width=550)
-        self.progress_bar.set(0)  # Mulai dari 0%
+        self.progress_bar.set(0)
         self.progress_bar.pack(pady=5)
 
         self.status_label = ctk.CTkLabel(
