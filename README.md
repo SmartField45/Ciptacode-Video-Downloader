@@ -23,3 +23,19 @@ To run this application from the source code, you will need the following instal
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/SmartField45/Ciptacode-Video-Downloader.git](https://github.com/SmartField45/Ciptacode-Video-Downloader.git)
+---
+
+## Current Version
+Version: 1.0.0
+
+## Programmer
+Muhammad Hani Ilma Alfarabi
+
+## Connect With Us
+
+Bug and Suggestions:
+
+* Email: estuaryinteractive@gmail.com
+
+## License
+© 2026 Estuary Interactive. MIT License
