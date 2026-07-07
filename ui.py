@@ -104,7 +104,7 @@ class CVDApp(ctk.CTk):
     def update_status(self, text):
         self.status_label.configure(text=text)
 
-        if "done" in text.lower() or "error" in text.lower():
+        if "completed" in text.lower() or "error" in text.lower():
             self.download_btn.configure(state="normal")
 
     def start_download(self):
